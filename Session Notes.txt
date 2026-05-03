@@ -1,0 +1,109 @@
+👉 Advanced Agentic AI Boot Camp : (Build Multi-Agent Workflows from Scratch)
+📅 3rd May ⏰ 10:15 AM (IST) || 🔗 https://zoom.us/j/87158140121
+
+youtube live link -- https://www.youtube.com/watch?v=QqPSWKdgQig
+=====
+
+workflow == not a course | not separate subject 
+
+if you have land to construct the house --
+ prvide workflow to constuct house -- 
+ 
+ ML -- pipeline
+ AI -- ai Workflows
+ GENAI 
+ AGENTIC AI -- workflow 
+
+
+if you have question can you workshop 
+listen the workshop. work with project live code
+then i will take your question 
+
+if is start the qustion now session would be stopped
+
+driver agent -- planning 
+						memory
+						tools 
+						task 
+						goal 
+						
+workflow -- task -- agent receive task -- store in memory -- planning -- environment -- tool -- goal 
+single agent vs multi agent vs agentic ai 
+
+1- single agent -- driver agent 
+
+2- multi agent -- driver agent + chef or made agent + house clean agent 
+                             (driveing task to pick my kid from school - house)
+							(made need to cook by 8am)
+							(house need to clean by 6am) 
+							
+3- entire ecos ystem is called agentic ai
+
+
+without orchastro no workflow 
+
+= ai agent -- single agent | he has own idea (driver agent) 
+= agenti ai - coordination of multiple agent system
+= orcastratro -- manage of Complet AI workflow (CREW AI) 
+
+what if my kid school at 9am -- driver agent reach to the school at 10am 
+		planning wrong 
+		i will scold
+		
+agent can learn from mistake (feedback loop) 
+owner -- agent 
+
+agentic ai also has feedback loop 
+envionment -- based on environ my agent will act according to the situation 
+
+
+
+For Assistance:Leena Admin | 
+Contact Number: +91 9133343369 
+
+crew ai -- multiple agentic ai framework
+
+1- google colab 
+2- opne notebook
+3- pip install crew ai 
+4- pip install crew ai Tools
+			serper api key -- free ( no need to charge for this)  
+			open api  key -- paid ( i will be using this)
+			gemini api key -- free ( no need to chage for this) 
+			
+
+gen ai -- you dont know how question from which website it went & fetch result 
+
+agentic ai-- you able to know website name, how agent is pull the informato for assinge topic
+
+gen ai vs agentic ai vs adavnce -- 
+
+1. **What is the primary characteristic of Agentic AI?**  
+   A) It operates without any human intervention.  
+   B) It relies solely on a single agent.  
+   C) It cannot learn or adapt to its environment.  
+   D) It is programmed to only perform simple tasks.
+
+2. **In a Single-Agent System, how many agents are involved?**  
+   A) Two or more agents working together.  
+   B) Just one autonomous agent.  
+   C) It varies based on the environment.  
+   D) None; it does not operate.
+
+3. **Which statement best describes a Multi-Agent System?**  
+   A) It involves one agent working alone.  
+   B) It consists of multiple agents that can communicate and cooperate.  
+   C) It operates on a fixed set of tasks without any interaction among agents.  
+   D) It is a system that does not adapt to changes in the environment.
+
+4. **Which of the following is an example of Agentic AI?**  
+   A) A robot vacuum cleaner that cleans without human help.  
+   B) A self-driving car making driving decisions autonomously.  
+   C) A clock that keeps time accurately.  
+   D) A smartphone running basic applications.
+
+5. **What advantage does a Multi-Agent System have over a Single-Agent System?**  
+   A) It is always easier to implement.  
+   B) It can handle more complex tasks through collaboration.  
+   C) It has fewer components to manage.  
+   D) It requires no coordination between agents.
